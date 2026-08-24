@@ -1,6 +1,7 @@
 {
-  "version": "1.4.45",
-  "notes": "ترتيب جديد للصفحة الرئيسية (مواقيت الصلاة بجانب أدوات الإنتاجية، ثم حكمة اليوم والمفضلة، والتقويم في الأسفل)، وإضافة معلومات بنص منسّق داخل المشاريع، وتحسينات. ننصح بالتحديث.",
+  "version": "1.4.46",
+  "notes": "الاستماع إلى أذكار الصباح والمساء بدل قراءتها (تلاوة تُبَثّ أو تُنزَّل للاستماع دون إنترنت)، وترتيب المهام المكتملة حسب تاريخ إنجازها، ورسالة التحديث صارت بلغة الواجهة ولا تتكرّر أكثر من مرّة كل 24 ساعة، والقدس هي المدينة الافتراضية لمواقيت الصلاة.",
+  "notes_en": "Listen to the morning and evening adhkar instead of reading them (stream the recitation or download it for offline listening), completed tasks are now ordered by when they were completed, the update message follows the interface language and appears at most once every 24 hours, and Jerusalem is the default city for prayer times.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
-  "windows_url": "https://github.com/mohammedalqaddi3/anchor-privacy/releases/latest"
+  "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
 }
