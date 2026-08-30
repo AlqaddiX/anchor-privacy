@@ -27,7 +27,7 @@
 <body>
 
   <h1>سياسة الخصوصية — تطبيق «المرساة» (Anchor)</h1>
-  <p class="muted">آخر تحديث: 24 يونيو 2026</p>
+  <p class="muted">آخر تحديث: 30 أغسطس 2026</p>
 
   <p>
     يوضّح هذا المستند كيفية تعامل تطبيق <strong>«المرساة» (Anchor)</strong>،
@@ -53,8 +53,9 @@
 
   <h2>3. استخدام الإنترنت</h2>
   <p>
-    يستخدم التطبيق الاتصال بالإنترنت لغرض واحد فقط: جلب أسعار عامة محدَّثة لعرضها
-    لك. لا تتضمّن هذه الطلبات أيّ بيانات شخصية تخصّك. الخدمات الخارجية المستخدَمة:
+    يستخدم التطبيق الاتصال بالإنترنت لجلب محتوى عام فقط. لا تتضمّن أيّ من هذه
+    الطلبات بيانات شخصية تخصّك، ولا يُرسَل شيء من محتواك إلى أيّ خادم. الخدمات
+    الخارجية المستخدَمة:
   </p>
   <ul>
     <li>
@@ -65,6 +66,15 @@
       <strong>أسعار العملات الرقمية</strong> عبر
       <a href="https://www.coingecko.com/" target="_blank" rel="noopener">CoinGecko (api.coingecko.com)</a>.
     </li>
+    <li>
+      <strong>تلاوات الأذكار</strong> (عند طلبك تنزيلها للاستماع دون إنترنت) عبر
+      <a href="https://archive.org/" target="_blank" rel="noopener">archive.org</a>.
+    </li>
+    <li>
+      <strong>التحقّق من وجود تحديث</strong> بقراءة ملف نصّي عام على
+      <a href="https://alqaddix.github.io/anchor-privacy/" target="_blank" rel="noopener">alqaddix.github.io</a>.
+      هذا الطلب يقرأ فقط ولا يرسل شيئًا عنك.
+    </li>
   </ul>
   <p>
     تخضع هذه الطلبات لسياسات الخصوصية الخاصة بمزوّدي تلك الخدمات. نحن لا نرسل
@@ -73,9 +83,24 @@
 
   <h2>4. النسخ الاحتياطي والمزامنة</h2>
   <p>
-    تتم المزامنة والنسخ الاحتياطي عبر ملفات نسخ احتياطي (بامتداد <code>.ibank</code>)
-    تُنشئها أنت وتتحكّم بها بالكامل (مكان حفظها ومشاركتها). هذه الملفات لا تمرّ عبر
-    خوادمنا إطلاقًا.
+    للتطبيق طريقتان، كلتاهما لا تمرّ عبر خوادمنا إطلاقًا — نحن لا نملك خوادم أصلًا:
+  </p>
+  <ul>
+    <li>
+      <strong>ملفات النسخ الاحتياطي</strong> (بامتداد <code>.ibank</code>) تُنشئها
+      أنت وتتحكّم بها بالكامل: مكان حفظها ومن تشاركها معه.
+    </li>
+    <li>
+      <strong>المزامنة اللحظية عبر شبكتك المحلية</strong> (اختيارية ومعطّلة
+      افتراضيًّا). عند تفعيلها يتبادل جهازاك — حاسوبك وهاتفك — بياناتك مباشرةً عبر
+      شبكة الواي فاي التي تملكها، بعد اقترانهما برمز تعرضه أنت. لا تغادر البيانات
+      شبكتك المحلية ولا تمرّ بأيّ وسيط خارجي.
+    </li>
+  </ul>
+  <p>
+    ملاحظة: النقل داخل الشبكة المحلية غير مشفَّر، وتقتصر حمايته على الرمز المشترك
+    الذي يُولَّد عند الاقتران. لذا فعِّل المزامنة على شبكة تثق بها (شبكة منزلك)،
+    لا على شبكة عامة مشتركة.
   </p>
 
   <h2>5. لا إعلانات ولا تتبّع</h2>
@@ -117,7 +142,7 @@
 
   <div class="en" lang="en" dir="ltr">
     <h1>Privacy Policy — «Anchor» (المرساة)</h1>
-    <p class="muted">Last updated: 24 June 2026</p>
+    <p class="muted">Last updated: 30 August 2026</p>
 
     <p>
       This document explains how the <strong>Anchor</strong> app, developed by
@@ -143,15 +168,21 @@
 
     <h2>3. Internet usage</h2>
     <p>
-      The app uses the internet for a single purpose: fetching public, up-to-date
-      prices to display to you. These requests contain no personal data about you.
-      Third-party services used:
+      The app uses the internet only to fetch public content. None of these
+      requests contain personal data about you, and none of your content is ever
+      sent to any server. Third-party services used:
     </p>
     <ul>
       <li><strong>Fiat currency rates</strong> via
         <a href="https://www.exchangerate-api.com/" target="_blank" rel="noopener">open.er-api.com</a>.</li>
       <li><strong>Cryptocurrency prices</strong> via
         <a href="https://www.coingecko.com/" target="_blank" rel="noopener">CoinGecko (api.coingecko.com)</a>.</li>
+      <li><strong>Adhkar recitations</strong> (only when you choose to download them
+        for offline listening) via
+        <a href="https://archive.org/" target="_blank" rel="noopener">archive.org</a>.</li>
+      <li><strong>Update checks</strong>, which read a small public text file on
+        <a href="https://alqaddix.github.io/anchor-privacy/" target="_blank" rel="noopener">alqaddix.github.io</a>.
+        This request only reads; it sends nothing about you.</li>
     </ul>
     <p>
       These requests are subject to those providers' own privacy policies. We send
@@ -160,8 +191,22 @@
 
     <h2>4. Backup &amp; sync</h2>
     <p>
-      Sync and backup happen through backup files (<code>.ibank</code>) that you
-      create and fully control. These files never pass through our servers.
+      The app offers two ways, neither of which passes through our servers — we
+      operate no servers at all:
+    </p>
+    <ul>
+      <li><strong>Backup files</strong> (<code>.ibank</code>) that you create and
+        fully control: where they are saved and who you share them with.</li>
+      <li><strong>Live sync over your own local network</strong> (optional, and off
+        by default). When enabled, your two devices — your computer and your phone —
+        exchange your data directly over your own Wi-Fi, after you pair them with a
+        code you display. The data never leaves your local network and never passes
+        through any intermediary.</li>
+    </ul>
+    <p>
+      Note: transfer within the local network is not encrypted; it is protected only
+      by the shared code generated at pairing. So enable sync on a network you trust
+      (your home network), not on a shared public one.
     </p>
 
     <h2>5. No ads, no tracking</h2>
