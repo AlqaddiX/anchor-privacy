@@ -1,7 +1,7 @@
 {
-  "version": "1.4.46",
-  "notes": "الاستماع إلى أذكار الصباح والمساء بدل قراءتها (تلاوة تُبَثّ أو تُنزَّل للاستماع دون إنترنت)، وترتيب المهام المكتملة حسب تاريخ إنجازها، ورسالة التحديث صارت بلغة الواجهة ولا تتكرّر أكثر من مرّة كل 24 ساعة، والقدس هي المدينة الافتراضية لمواقيت الصلاة.",
-  "notes_en": "Listen to the morning and evening adhkar instead of reading them (stream the recitation or download it for offline listening), completed tasks are now ordered by when they were completed, the update message follows the interface language and appears at most once every 24 hours, and Jerusalem is the default city for prayer times.",
+  "version": "1.4.48",
+  "notes": "مزامنة لحظية بين هاتفك وحاسوبك عبر شبكتك المحلية: فعّلها من الإعدادات ← المزامنة اللحظية على الجهازين، ثم اقترنهما برمز يظهر على الحاسوب. بلا حساب ولا اشتراك ولا إنترنت — بياناتك لا تغادر شبكتك، وكل تعديل يصل الجهاز الآخر فور حدوثه، وما تضيفه خارج البيت يتزامن تلقائيًّا أول ما تعود. تُنقل معها الصور والملاحظات الصوتية والملفات. ويشترط أن يكون الجهازان على شبكة الواي فاي نفسها وأن يكون برنامج الحاسوب مفتوحًا. ومن الإصدار السابق: الفكرة الجديدة في المشاريع تُضاف أعلى القائمة، وزر «إغلاق الكل» للإشعارات عند تجاوزها ثلاثة.",
+  "notes_en": "Live sync between your phone and computer over your own local network: enable it in Settings → Live sync on both devices, then pair them with a code shown on the computer. No account, no subscription, no internet — your data never leaves your network, every change reaches the other device as it happens, and anything you add while away syncs automatically as soon as you get back. Images, voice notes and attached files come along too. Both devices must be on the same Wi-Fi and the desktop app must be running. Also from the previous release: a new project idea is added at the top of the list, and a \"close all\" button appears once there are more than three notifications.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
 }
