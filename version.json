@@ -1,7 +1,7 @@
 {
-  "version": "1.4.53",
-  "notes": "سهم «فتح القسم» في بطاقات الأقسام صار يشير إلى الجهة الصحيحة في الواجهة العربية. وأيقونات بطاقتَي «حكمة اليوم» و«مواقيت الصلاة» انزاحت إلى حافة البطاقة بدل أن تقف في منتصف الفراغ. واختصار جديد Ctrl+E يفتح قسم «الإنجاز» مباشرة على سطح المكتب. وعلى الهاتف صار إشعار التحديث يعرض عناوين مختصرة جدًّا بدل النصّ الكامل الذي كان يملأ الشاشة.",
-  "notes_en": "The \"Open section\" arrow on section cards now points the right way in the Arabic interface. The icons on the \"Wisdom of the day\" and \"Prayer times\" cards now sit at the card edge instead of stopping mid-gap. A new Ctrl+E shortcut opens the \"Achievement\" section directly on desktop. And on phones the update notice now shows very short headlines instead of the full text that used to fill the screen.",
+  "version": "1.4.54",
+  "notes": "تطبيق الهاتف صار يعرض إعلانًا واحدًا أسفل بطاقة مواقيت الصلاة، ونسخة الويندوز تبقى بلا إعلانات إطلاقًا. ومن كان في أوروبا أو بريطانيا أو سويسرا يظهر له نموذج موافقة قبل أي إعلان، ويمكنه تغيير اختياره لاحقًا من الإعدادات ← خصوصية الإعلانات. وسياسة الخصوصية حُدّثت بوصف دقيق لما تجمعه Google وما لا يصل إليه أحد: ملاحظاتك ومهامك ومصاريفك تبقى على جهازك ولا تُستخدم في اختيار الإعلانات.",
+  "notes_en": "The mobile app now shows a single ad below the prayer times card, while the Windows version stays completely ad-free. Users in Europe, the UK or Switzerland see a consent form before any ad, and can change their choice later from Settings → Ads privacy. The privacy policy was updated with a precise description of what Google collects and what nobody can reach: your notes, tasks and expenses stay on your device and are never used to choose which ads you see.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
 }
