@@ -1,7 +1,8 @@
 {
-  "version": "1.4.57",
-  "notes": "صار اسمك وصورة ملفّك الشخصي يُزامَنان بين الحاسوب والهاتف، فتظهر بياناتك نفسها على الجهازين. وقسم العبادات بتصميم جديد: ترويسة بآية اليوم، وبطاقة ملخّص، وبطاقات أقسام بروابط سريعة تفتح تبويباتها مباشرة. وفي الواجهة: شريط الحالة على الهاتف صار بلون التطبيق، وأسهم تمرير المفضلة انتقلت إلى ترويستها. وفي حوار الهدف: عناوين الحقول تظهر كاملة، والألوان ستة في سطر واحد، ولا يُفتح الحوار بالتركيز على أي حقل عند التعديل. وحالة الهدف صارت «متوقف» بكلمة واحدة.",
-  "notes_en": "Your name and profile picture now sync between the computer and the phone, so both devices show the same profile. The Worship section has a new design: a verse-of-the-day header, a summary card, and section cards with quick links that open their tabs directly. In the interface: the phone status bar now matches the app color, and the favorites scroll arrows moved up into the card header. In the goal dialog: field labels are no longer cut off, the colors fit in a single row of six, and editing no longer focuses a field automatically. The paused goal status is now simply \"Paused\".",
+  "version": "1.4.59",
+  "notes": "أول نسخة للينكس. وفي المكتبة: الكتاب يُفتح على الهاتف دون ظهور لوحة المفاتيح، والضغط على الغلاف يعرضه مكبّرًا. وفي العبادات: الضغط على «عدد التكرار» يحدّد الرقم لتكتب فوقه مباشرة، وأُزيل الفراغ قبل تبويب «الصباح». وفي الأقسام: الملف المعدَّل يظهر أولًا، وفتحه دون تعديل لا يغيّر ترتيبه. وفي المصاريف: صُحّح اتجاه أسهم تغيير الشهر. وعنوان «اكتشف تطبيقاتنا الأخرى» صار أبيض فوق الخلفية الملوّنة.",
+  "notes_en": "The first Linux version. In the Library: on phones a book opens without popping up the keyboard, and tapping the cover shows it enlarged. In Worship: tapping the repeat count selects the number so you can type over it, and the gap before the Morning tab is gone. In Sections: an edited file moves to the top, and just opening a file no longer reorders it. In Expenses: the month arrows now point the right way. The \"Discover our other apps\" title is now white on its colored header.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
-  "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
+  "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
+  "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
 }
