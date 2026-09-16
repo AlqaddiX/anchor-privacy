@@ -1,7 +1,7 @@
 {
-  "version": "1.4.59",
-  "notes": "أول نسخة للينكس. وفي المكتبة: الكتاب يُفتح على الهاتف دون ظهور لوحة المفاتيح، والضغط على الغلاف يعرضه مكبّرًا. وفي العبادات: الضغط على «عدد التكرار» يحدّد الرقم لتكتب فوقه مباشرة، وأُزيل الفراغ قبل تبويب «الصباح». وفي الأقسام: الملف المعدَّل يظهر أولًا، وفتحه دون تعديل لا يغيّر ترتيبه. وفي المصاريف: صُحّح اتجاه أسهم تغيير الشهر. وعنوان «اكتشف تطبيقاتنا الأخرى» صار أبيض فوق الخلفية الملوّنة.",
-  "notes_en": "The first Linux version. In the Library: on phones a book opens without popping up the keyboard, and tapping the cover shows it enlarged. In Worship: tapping the repeat count selects the number so you can type over it, and the gap before the Morning tab is gone. In Sections: an edited file moves to the top, and just opening a file no longer reorders it. In Expenses: the month arrows now point the right way. The \"Discover our other apps\" title is now white on its colored header.",
+  "version": "1.4.60",
+  "notes": "على الحاسوب: بطاقة أسفل القائمة الجانبية صارت تُعلن اقتران هاتفك وتُفرّق بين «متصل الآن» و«بانتظار الشبكة» مع اسم الهاتف، وتعود إلى حالة الحماية إن لم يقترن هاتف بعد. وفي «حول البرنامج» على الحاسوب والهاتف: سطر «تواصل معنا أو قدّم اقتراحًا» يفتح رسالة جاهزة إلى المطوّر، ويَنسخ العنوان تلقائيًّا إن لم يكن على جهازك برنامج بريد.",
+  "notes_en": "On the desktop: the card at the bottom of the sidebar now announces that your phone is paired, telling \"connected now\" apart from \"waiting for the network\" and naming the phone; it falls back to the app-lock status when no phone has paired yet. In About, on both desktop and phone: a new \"Contact us or send a suggestion\" line opens a ready-made email to the developer, and copies the address automatically if no mail app is set up.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
