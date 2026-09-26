@@ -1,7 +1,7 @@
 {
-  "version": "1.4.61",
-  "notes": "كل حذف في البرنامج صار قابلًا للتراجع خلال سبع ثوانٍ، ويعيد التراجع كل ما حُذف معه (قسم بأفرعه ومعلوماته، مشروع بمعلوماته). صورة لكل مهمة تُضغط تلقائيًّا ليصغر حجمها. يوم بداية لكل مشروع مع أيقونة تعرض يومه. عشر حكم جديدة افتراضية مع زرّ «الحكمة التالية»، والمقولة بخطّ أكبر من شرحها ويصغر الخطّ ليتّسع النصّ كاملًا. على الهاتف: زرّ الرجوع يعود إلى لوحة التحكم بدل إغلاق البرنامج، وتسميات ملخّص صفحة الإنجاز صارت تظهر كاملة.",
-  "notes_en": "Every delete in the app can now be undone for seven seconds, and undo brings back everything deleted with it (a section with its branches and entries, a project with its entries). Each task can have an image, compressed automatically to keep it small. Each project has a start date and a badge showing which day it is on. Ten new default wisdoms with a \"Next wisdom\" button; the quote is larger than its explanation, and the text shrinks to fit in full. On the phone: Back returns to the dashboard instead of closing the app, and the labels in the Achievement summary now show in full.",
+  "version": "1.4.62",
+  "notes": "المهام التي تختارها لبطاقة «المهام اليوم» في لوحة التحكم صارت تُزامَن بين الحاسوب والهاتف. في ويندوز: زرّ الإغلاق (X) يسأل قبل الخروج مع خيار تذكّر الاختيار. على الهاتف: فتح المهمة لا يُظهر لوحة المفاتيح تلقائيًّا.",
+  "notes_en": "The tasks you pick for the \"Today's tasks\" card on the dashboard now sync between your computer and phone. On Windows: the close (X) button asks before exiting, with an option to remember your choice. On the phone: opening a task no longer pops up the keyboard automatically.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
