@@ -1,7 +1,7 @@
 {
-  "version": "1.4.62",
-  "notes": "المهام التي تختارها لبطاقة «المهام اليوم» في لوحة التحكم صارت تُزامَن بين الحاسوب والهاتف. في ويندوز: زرّ الإغلاق (X) يسأل قبل الخروج مع خيار تذكّر الاختيار. على الهاتف: فتح المهمة لا يُظهر لوحة المفاتيح تلقائيًّا.",
-  "notes_en": "The tasks you pick for the \"Today's tasks\" card on the dashboard now sync between your computer and phone. On Windows: the close (X) button asks before exiting, with an option to remember your choice. On the phone: opening a task no longer pops up the keyboard automatically.",
+  "version": "1.4.63",
+  "notes": "في ويندوز: إغلاق البرنامج صار لحظيًّا، وصار بإمكانك حفظ الصور (مثل صور المهام) على جهازك من زرّ الحفظ في عارض الصور. على الهاتف: أُزيل اختصار Ctrl + K من خانة البحث.",
+  "notes_en": "On Windows: closing the app is now instant, and you can save images (such as task images) to your computer with the save button in the image viewer. On the phone: the Ctrl + K shortcut hint was removed from the search box.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
