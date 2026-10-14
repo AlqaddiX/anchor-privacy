@@ -1,7 +1,7 @@
 {
-  "version": "1.4.64",
-  "notes": "قسم جديد «الأدوات» في القائمة الجانبية، وفيه: «الأحداث» لمعرفة كم مضى على كل حدث في حياتك، و«الذاكرة» لحفظ معلومات صغيرة ومراجعتها بتكرار متباعد مع تذكير يومي. صار بإمكانك الرسم على صور المهام (قلم حرّ، خط، سهم، دائرة، مستطيل). في الرئيسية: بطاقة «المهام اليوم» تعرض خمس مهام، والتقويم والإنجاز والمهام بطول واحد.",
-  "notes_en": "A new Tools section in the sidebar, with Events (see how long it has been since each event in your life) and Memory (save small facts and review them with spaced repetition and a daily reminder). You can now draw on task images (freehand, line, arrow, circle, rectangle). On the home page, Today's Tasks shows five tasks, and the calendar, achievement and tasks cards are the same height.",
+  "version": "1.4.65",
+  "notes": "بطاقة مواقيت الصلاة على الهاتف صارت أصغر بنصف الارتفاع مع بقاء كل عناصرها، والصلوات الستّ في صفّ واحد.",
+  "notes_en": "The prayer times card on phones is now about half as tall, keeping all its elements, with the six prayers in a single row.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
