@@ -1,7 +1,7 @@
 {
-  "version": "1.4.65",
-  "notes": "بطاقة مواقيت الصلاة على الهاتف صارت أصغر بنصف الارتفاع مع بقاء كل عناصرها، والصلوات الستّ في صفّ واحد.",
-  "notes_en": "The prayer times card on phones is now about half as tall, keeping all its elements, with the six prayers in a single row.",
+  "version": "1.4.66",
+  "notes": "قسم «الصوتيات» في الأدوات: تصنيفات لملفاتك الصوتية مع التحكم في السرعة والتكرار، وإظهار المدة والحجم. تنبيه «حان الآن وقت» الصلاة يُخفي تنبيه «اقترب وقت»، وزر أوضح للتعديل على الصور، والمهام المختارة في أول القائمة، وزر «التالي» عند إضافة مصروف.",
+  "notes_en": "New Audio tool: organize your audio files into categories, with speed and repeat controls, duration and file size. The prayer-time alert now replaces the approaching alert, a clearer image-edit button, selected tasks listed first, and a Next key when adding an expense.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
