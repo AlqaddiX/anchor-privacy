@@ -1,7 +1,7 @@
 {
-  "version": "1.4.66",
-  "notes": "قسم «الصوتيات» في الأدوات: تصنيفات لملفاتك الصوتية مع التحكم في السرعة والتكرار، وإظهار المدة والحجم. تنبيه «حان الآن وقت» الصلاة يُخفي تنبيه «اقترب وقت»، وزر أوضح للتعديل على الصور، والمهام المختارة في أول القائمة، وزر «التالي» عند إضافة مصروف.",
-  "notes_en": "New Audio tool: organize your audio files into categories, with speed and repeat controls, duration and file size. The prayer-time alert now replaces the approaching alert, a clearer image-edit button, selected tasks listed first, and a Next key when adding an expense.",
+  "version": "1.4.67",
+  "notes": "إصلاح خلل المزامنة: إذا تغيّر رمز الاقتران على الحاسوب تظهر على الهاتف رسالة واضحة تطلب فكّ الاقتران وإعادته، بدل المحاولات المتكرّرة التي كانت تُثقل الحاسوب.",
+  "notes_en": "Sync fix: if the computer's pairing key changed, the phone now shows a clear message asking you to unpair and pair again, instead of endless retries that burdened the computer.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
