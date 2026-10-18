@@ -1,7 +1,7 @@
 {
-  "version": "1.4.67",
-  "notes": "إصلاح خلل المزامنة: إذا تغيّر رمز الاقتران على الحاسوب تظهر على الهاتف رسالة واضحة تطلب فكّ الاقتران وإعادته، بدل المحاولات المتكرّرة التي كانت تُثقل الحاسوب.",
-  "notes_en": "Sync fix: if the computer's pairing key changed, the phone now shows a clear message asking you to unpair and pair again, instead of endless retries that burdened the computer.",
+  "version": "1.4.68",
+  "notes": "حدّد أي نصّ في ملفات المعلومات أو ملاحظات الكتاب ثم اختر «إضافة إلى الذاكرة» لتحويله إلى بطاقة مراجعة متباعدة، مع أرقام أوقات صلاة أوضح على الهاتف.",
+  "notes_en": "Select any text in your info files or book notes and choose \"Add to memory\" to turn it into a spaced-review card, plus clearer prayer times on phones.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
