@@ -1,7 +1,7 @@
 {
-  "version": "1.4.68",
-  "notes": "حدّد أي نصّ في ملفات المعلومات أو ملاحظات الكتاب ثم اختر «إضافة إلى الذاكرة» لتحويله إلى بطاقة مراجعة متباعدة، مع أرقام أوقات صلاة أوضح على الهاتف.",
-  "notes_en": "Select any text in your info files or book notes and choose \"Add to memory\" to turn it into a spaced-review card, plus clearer prayer times on phones.",
+  "version": "1.4.69",
+  "notes": "هدف قراءة في «الإنجاز» مربوط بكتاب من المكتبة، ومؤشّر المزامنة على الهاتف، وتغيير اتجاه النصّ المحدّد، مع إصلاح كل النصوص التي كانت لا تظهر كاملة.",
+  "notes_en": "Reading goals in Achievement linked to a library book, a sync indicator on phones, text-direction switching for selected text, and every cut-off label now shows in full.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
