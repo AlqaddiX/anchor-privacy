@@ -1,7 +1,7 @@
 {
-  "version": "1.4.69",
-  "notes": "هدف قراءة في «الإنجاز» مربوط بكتاب من المكتبة، ومؤشّر المزامنة على الهاتف، وتغيير اتجاه النصّ المحدّد، مع إصلاح كل النصوص التي كانت لا تظهر كاملة.",
-  "notes_en": "Reading goals in Achievement linked to a library book, a sync indicator on phones, text-direction switching for selected text, and every cut-off label now shows in full.",
+  "version": "1.4.70",
+  "notes": "إصلاح الاقتران بين الهاتف والحاسوب: لا يضيع الاقتران بعد إغلاق البرنامج، وبحث أقوى عن الحاسوب، وتنبيه إن كُتب الرمز مكان العنوان، والمزامنة تظهر «تعمل الآن» فور وصول البيانات.",
+  "notes_en": "Phone–computer pairing fixes: pairing survives closing the app, a stronger computer search, a hint when the code is typed in the address field, and sync shows as live as soon as data arrives.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
