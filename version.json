@@ -1,7 +1,7 @@
 {
-  "version": "1.4.70",
-  "notes": "إصلاح الاقتران بين الهاتف والحاسوب: لا يضيع الاقتران بعد إغلاق البرنامج، وبحث أقوى عن الحاسوب، وتنبيه إن كُتب الرمز مكان العنوان، والمزامنة تظهر «تعمل الآن» فور وصول البيانات.",
-  "notes_en": "Phone–computer pairing fixes: pairing survives closing the app, a stronger computer search, a hint when the code is typed in the address field, and sync shows as live as soon as data arrives.",
+  "version": "1.4.71",
+  "notes": "إشارة اقتران أوضح على الهاتف، وعناوين المشاريع تظهر كاملة، والضغط على تذكير الذاكرة يفتحها، وبطاقة الإنجاز تعرض كل ما يحتاج متابعة اليوم، وبطاقة الهاتف المقترن تنقلك إلى قسم المزامنة في الإعدادات.",
+  "notes_en": "A clearer pairing indicator on the phone, full project titles, tapping the memory reminder opens Memory, the Achievement card lists everything needing attention today, and the paired-phone card jumps to the sync settings.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
