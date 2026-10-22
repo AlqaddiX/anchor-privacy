@@ -1,7 +1,7 @@
 {
-  "version": "1.4.71",
-  "notes": "إشارة اقتران أوضح على الهاتف، وعناوين المشاريع تظهر كاملة، والضغط على تذكير الذاكرة يفتحها، وبطاقة الإنجاز تعرض كل ما يحتاج متابعة اليوم، وبطاقة الهاتف المقترن تنقلك إلى قسم المزامنة في الإعدادات.",
-  "notes_en": "A clearer pairing indicator on the phone, full project titles, tapping the memory reminder opens Memory, the Achievement card lists everything needing attention today, and the paired-phone card jumps to the sync settings.",
+  "version": "1.4.72",
+  "notes": "أيام العادات لم تعد تضيع عند المزامنة بين الهاتف والحاسوب، واسترجاع الأيام التي ضاعت سابقًا؛ نقل المعلومات والمرفقات من مشروع إلى آخر؛ تعديل نصّ الحكمة ومصدرها؛ اسم المشروع يظهر كاملًا في أعلى صفحته.",
+  "notes_en": "Habit days are no longer lost when syncing between phone and computer, and previously lost days are restored; move notes and attachments between projects; edit a wisdom's text and source; the full project name now shows at the top of its page.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
