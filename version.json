@@ -1,7 +1,7 @@
 {
-  "version": "1.4.72",
-  "notes": "أيام العادات لم تعد تضيع عند المزامنة بين الهاتف والحاسوب، واسترجاع الأيام التي ضاعت سابقًا؛ نقل المعلومات والمرفقات من مشروع إلى آخر؛ تعديل نصّ الحكمة ومصدرها؛ اسم المشروع يظهر كاملًا في أعلى صفحته.",
-  "notes_en": "Habit days are no longer lost when syncing between phone and computer, and previously lost days are restored; move notes and attachments between projects; edit a wisdom's text and source; the full project name now shows at the top of its page.",
+  "version": "1.4.73",
+  "notes": "إضافة مهمة مباشرة من بطاقة «المهام اليوم» في الرئيسية، وتثبيت أي مهمة عليها بدبّوس من قسم المهام؛ صورة المشروع صغيرة في وسط صفحته، وقسم جديد «الصور والوسائط» يعرض الصور والفيديو والصوت في معرض منفصل عن الملفات؛ «مساحة التخزين» في الإعدادات تعرض ملفات البرنامج من الأكبر حجمًا ومكان استخدام كل ملف.",
+  "notes_en": "Add a task right from the Today's Tasks card on the home page, and pin any task to it from the Tasks section; the project image now sits small in the center of its page, and a new Photos & media section shows images, videos and audio in a gallery separate from files; Storage in Settings lists the app's files from largest to smallest and where each one is used.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
