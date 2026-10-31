@@ -1,7 +1,7 @@
 {
-  "version": "1.4.73",
-  "notes": "إضافة مهمة مباشرة من بطاقة «المهام اليوم» في الرئيسية، وتثبيت أي مهمة عليها بدبّوس من قسم المهام؛ صورة المشروع صغيرة في وسط صفحته، وقسم جديد «الصور والوسائط» يعرض الصور والفيديو والصوت في معرض منفصل عن الملفات؛ «مساحة التخزين» في الإعدادات تعرض ملفات البرنامج من الأكبر حجمًا ومكان استخدام كل ملف.",
-  "notes_en": "Add a task right from the Today's Tasks card on the home page, and pin any task to it from the Tasks section; the project image now sits small in the center of its page, and a new Photos & media section shows images, videos and audio in a gallery separate from files; Storage in Settings lists the app's files from largest to smallest and where each one is used.",
+  "version": "1.4.74",
+  "notes": "تنبيه عند بلوغ حدث في أداة «الأحداث» عددًا من الأيام تحدّده؛ البرنامج يفتح مكبّرًا ليملأ الشاشة، وبطاقات الحكمة والمواقيت والأدوات في سطر واحد حتى على اللابتوب الصغير؛ المظهر الفاتح افتراضيًّا؛ بطاقة الاقتران بالهاتف أسفل القائمة الجانبية تنقل إلى قسم المزامنة؛ قسم الالتقاط السريع أول الأقسام؛ أغلفة للكتب المقترحة؛ رابط المرساة على Google Play في الإعدادات.",
+  "notes_en": "Get an alert when an event in the Events tool reaches a number of days you choose; the app opens maximized to fill the screen, and the wisdom, prayer times and tools cards share one row even on small laptops; light theme by default; a phone pairing card at the bottom of the sidebar opens the Sync section; Quick capture is now the first section; covers for the suggested books; a link to Anchor on Google Play in Settings.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
