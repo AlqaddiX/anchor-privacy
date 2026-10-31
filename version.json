@@ -1,7 +1,7 @@
 {
-  "version": "1.4.74",
-  "notes": "تنبيه عند بلوغ حدث في أداة «الأحداث» عددًا من الأيام تحدّده؛ البرنامج يفتح مكبّرًا ليملأ الشاشة، وبطاقات الحكمة والمواقيت والأدوات في سطر واحد حتى على اللابتوب الصغير؛ المظهر الفاتح افتراضيًّا؛ بطاقة الاقتران بالهاتف أسفل القائمة الجانبية تنقل إلى قسم المزامنة؛ قسم الالتقاط السريع أول الأقسام؛ أغلفة للكتب المقترحة؛ رابط المرساة على Google Play في الإعدادات.",
-  "notes_en": "Get an alert when an event in the Events tool reaches a number of days you choose; the app opens maximized to fill the screen, and the wisdom, prayer times and tools cards share one row even on small laptops; light theme by default; a phone pairing card at the bottom of the sidebar opens the Sync section; Quick capture is now the first section; covers for the suggested books; a link to Anchor on Google Play in Settings.",
+  "version": "1.4.75",
+  "notes": "تطبيق جديد في «اكتشف تطبيقاتنا الأخرى»: «الحضور والغياب والرواتب»؛ وعلى الحاسوب صارت الصفحة شبكة بطاقات كبيرة، أربع في كل سطر.",
+  "notes_en": "A new app in Discover our other apps: Attendance & Payroll; on desktop the page is now a grid of large cards, four per row.",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
