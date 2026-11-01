@@ -1,7 +1,7 @@
 {
-  "version": "1.4.75",
-  "notes": "تطبيق جديد في «اكتشف تطبيقاتنا الأخرى»: «الحضور والغياب والرواتب»؛ وعلى الحاسوب صارت الصفحة شبكة بطاقات كبيرة، أربع في كل سطر.",
-  "notes_en": "A new app in Discover our other apps: Attendance & Payroll; on desktop the page is now a grid of large cards, four per row.",
+  "version": "1.4.76",
+  "notes": "إصلاح تشغيل المزامنة على الحاسوب\nإرشاد لمكان عنوان الحاسوب\nأزرار «حول البرنامج» يمينًا\nملاحظات التحديث نقاطًا مختصرة",
+  "notes_en": "Fixed sync server startup on PC\nWhere to find the PC address\nAbout buttons aligned to the start\nUpdate notes as short bullets",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
