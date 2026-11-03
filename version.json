@@ -1,7 +1,7 @@
 {
-  "version": "1.4.76",
-  "notes": "إصلاح تشغيل المزامنة على الحاسوب\nإرشاد لمكان عنوان الحاسوب\nأزرار «حول البرنامج» يمينًا\nملاحظات التحديث نقاطًا مختصرة",
-  "notes_en": "Fixed sync server startup on PC\nWhere to find the PC address\nAbout buttons aligned to the start\nUpdate notes as short bullets",
+  "version": "1.4.77",
+  "notes": "ترتيب تصنيفات المهام\nمزامنة إشعار مراجعة الذاكرة\nالنص العربي يمينًا في المحرّر\nالمهام المتأخّرة في الأعلى\nضغط صور المهام المكتملة\nشبكة عادات تكبر مع الوقت\nإصلاح مربّع اليوم في العادات",
+  "notes_en": "Reorder task categories\nMemory reminder syncs across devices\nArabic text aligned right in editor\nOverdue tasks on top\nCompleted task images compressed\nHabit grid grows over time\nFixed today's cell in habits",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
