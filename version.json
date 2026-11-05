@@ -1,7 +1,7 @@
 {
-  "version": "1.4.78",
-  "notes": "قراءة كتب PDF داخل التطبيق\nتسجيل صوتي للمهمة\nنقل كتاب إلى «أنوي قراءتها»\nتنبيه الصلاة يحلّ محلّ السابق\nحركة «تم الاقتران بنجاح»\nاشتراك سنوي بعد 30 يومًا مجانية\nاشتراك واحد للهاتف والحاسوب",
-  "notes_en": "Read PDF books in the app\nVoice recording for tasks\nMove a book to «Want to read»\nNew prayer alert replaces the old\n«Paired successfully» animation\nYearly plan after 30 free days\nOne plan for phone and computer",
+  "version": "1.4.79",
+  "notes": "مزامنة ملفات PDF للكتب\nإكمال البيانات الناقصة بعد التحديث\nتحديث سعر الاشتراك السنوي",
+  "notes_en": "PDF books sync reliably\nMissing data completed after update\nUpdated yearly plan price",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
