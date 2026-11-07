@@ -1,7 +1,7 @@
 {
-  "version": "1.4.79",
-  "notes": "مزامنة ملفات PDF للكتب\nإكمال البيانات الناقصة بعد التحديث\nتحديث سعر الاشتراك السنوي",
-  "notes_en": "PDF books sync reliably\nMissing data completed after update\nUpdated yearly plan price",
+  "version": "1.4.80",
+  "notes": "ملاحظات صوتية ونصية للكتب\nزر ملاحظة داخل القارئ\nتثبيت التقريب في القارئ\nمتابعة عدّة كتب معًا\nالبحث يشمل الكتب\nحجم خط للنص المحدد\nتحسين إضافة المهام",
+  "notes_en": "Voice & text book notes\nNote button in the reader\nLock zoom in the reader\nRead several books at once\nSearch includes books\nFont size for selected text\nBetter task quick-add",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
