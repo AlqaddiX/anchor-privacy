@@ -1,7 +1,7 @@
 {
-  "version": "1.4.81",
-  "notes": "حركة عند اتصال الجهازين\nرقم صفحة الملاحظة صحيح\nكتابة رقم الصفحة مباشرة\nتعديل ملاحظات الكتب\nاسم الكتاب كاملًا\nبطاقة دعم المطور",
-  "notes_en": "Animation when devices connect\nCorrect page on reader notes\nType the page number\nEdit book notes\nFull book title\nSupport the developer card",
+  "version": "1.4.82",
+  "notes": "التنقّل بين الصور بالأسهم\nحفظ الصورة على الهاتف\nصور المشروع داخل التطبيق\nلون خلفية للمهمة\nالعاجلة تظهر في الرئيسية\nخلفية للقائمة الجانبية",
+  "notes_en": "Arrows between images\nSave images on phone\nProject images in-app\nTask background color\nUrgent tasks on home\nSidebar background",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
