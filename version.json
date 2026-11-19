@@ -1,7 +1,7 @@
 {
-  "version": "1.4.84",
-  "notes": "رابط موقعنا في «حول البرنامج»\nالكتب المقترحة تظهر كلها\nمعلومة أولى في الذاكرة\nخطّ أوضح على لينكس\nرسالة أوضح لفشل الاقتران",
-  "notes_en": "Website link in About\nAll suggested books shown\nFirst card in Memory\nClearer font on Linux\nClearer pairing error",
+  "version": "1.4.85",
+  "notes": "استيراد المهام من Jira وAzure\nمنبّه للمهام المتأخرة\nأهداف وتحديات جاهزة\nإشعار المهمة يفتحها\nشكل أوضح لتعديل المهمة",
+  "notes_en": "Import tasks from Jira/Azure\nOverdue task alarm\nStarter goals and challenges\nTask notices open the task\nCleaner task editor",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
