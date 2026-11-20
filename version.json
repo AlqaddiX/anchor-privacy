@@ -1,7 +1,7 @@
 {
-  "version": "1.4.85",
-  "notes": "استيراد المهام من Jira وAzure\nمنبّه للمهام المتأخرة\nأهداف وتحديات جاهزة\nإشعار المهمة يفتحها\nشكل أوضح لتعديل المهمة",
-  "notes_en": "Import tasks from Jira/Azure\nOverdue task alarm\nStarter goals and challenges\nTask notices open the task\nCleaner task editor",
+  "version": "1.4.86",
+  "notes": "تثبيت المفضلة في الأعلى\nتشطيب الورد من الخارج\nحذف صور المهام المنجزة\nتصنيف ملوّن والعاجلة أولًا\nمصاريف أبسط\nالمنبّه يرنّ 3 مرات\nإصلاح سحب المهام",
+  "notes_en": "Pin favorites to the top\nTick off wird from outside\nDelete completed task images\nColored categories, urgent first\nSimpler expenses\nAlarm rings only 3 times\nFixed task dragging",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
