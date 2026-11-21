@@ -1,7 +1,7 @@
 {
-  "version": "1.4.86",
-  "notes": "تثبيت المفضلة في الأعلى\nتشطيب الورد من الخارج\nحذف صور المهام المنجزة\nتصنيف ملوّن والعاجلة أولًا\nمصاريف أبسط\nالمنبّه يرنّ 3 مرات\nإصلاح سحب المهام",
-  "notes_en": "Pin favorites to the top\nTick off wird from outside\nDelete completed task images\nColored categories, urgent first\nSimpler expenses\nAlarm rings only 3 times\nFixed task dragging",
+  "version": "1.4.87",
+  "notes": "مدّة للمهمة بنظام 45/15\nسؤال «هل اكتملت؟» عند انتهاء الوقت\nمؤقّت المهمة الجارية في الرئيسية\nنسبة الإنجاز في الكتب\nترتيب مهام اليوم بالسحب\nقلب صورة الخلفية",
+  "notes_en": "Task duration, 45/15 sessions\n“Is it done?” when time is up\nRunning-task timer on home\nBook progress percentage\nDrag to reorder Today tasks\nFlip the backdrop image",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
