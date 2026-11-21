@@ -1,7 +1,7 @@
 {
-  "version": "1.4.87",
-  "notes": "مدّة للمهمة بنظام 45/15\nسؤال «هل اكتملت؟» عند انتهاء الوقت\nمؤقّت المهمة الجارية في الرئيسية\nنسبة الإنجاز في الكتب\nترتيب مهام اليوم بالسحب\nقلب صورة الخلفية",
-  "notes_en": "Task duration, 45/15 sessions\n“Is it done?” when time is up\nRunning-task timer on home\nBook progress percentage\nDrag to reorder Today tasks\nFlip the backdrop image",
+  "version": "1.4.88",
+  "notes": "إصلاح مؤقّت الرئيسية للمهام ذات المدّة فقط",
+  "notes_en": "Fixed: home timer shows only for timed tasks",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
