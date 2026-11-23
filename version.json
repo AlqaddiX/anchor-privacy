@@ -1,7 +1,7 @@
 {
-  "version": "1.4.88",
-  "notes": "إصلاح مؤقّت الرئيسية للمهام ذات المدّة فقط",
-  "notes_en": "Fixed: home timer shows only for timed tasks",
+  "version": "1.4.89",
+  "notes": "تصميم جديد لأذكار الجنة\nمستويات بشريط تقدّم\nأذكار الجنة من العبادات\nرقم الإصدار أوضح",
+  "notes_en": "Redesigned Paradise Dhikr\nLevels with progress bars\nParadise Dhikr from Worship\nClearer version number",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
