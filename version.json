@@ -1,7 +1,7 @@
 {
-  "version": "1.4.90",
-  "notes": "ضغط الصور والفيديو\nحجم الفيديو المتوقّع قبل الضغط\nروابط لينكدإن في تصنيفات\nبيانات المنشور تلقائيًّا\nطيّ بطاقة الإنتاجية\nمنبّه المهام يرنّ مرّتين\nإصلاح الترويسة مع المؤقّت",
-  "notes_en": "Image & video compression\nExpected video size first\nLinkedIn links in categories\nPost details fetched automatically\nCollapsible productivity card\nTask alarm rings twice\nHeader fix with task timer",
+  "version": "1.4.91",
+  "notes": "Ctrl+K يفتح الأدوات\nبطاقة الحكمة أصغر وأوضح\nلينكدإن بفقرة واحدة\nموشن جديد للمؤقّت\nالمنبّه يرنّ مرّة واحدة\nالمشاريع المثبّتة في سطرين\nإصلاح عدد المهام الجارية",
+  "notes_en": "Ctrl+K opens Tools\nSmaller, clearer wisdom card\nLinkedIn: one paragraph\nNew timer animation\nAlarm rings once\nPinned projects in two rows\nIn-progress count fix",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
