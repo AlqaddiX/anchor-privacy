@@ -1,7 +1,7 @@
 {
-  "version": "1.4.91",
-  "notes": "Ctrl+K يفتح الأدوات\nبطاقة الحكمة أصغر وأوضح\nلينكدإن بفقرة واحدة\nموشن جديد للمؤقّت\nالمنبّه يرنّ مرّة واحدة\nالمشاريع المثبّتة في سطرين\nإصلاح عدد المهام الجارية",
-  "notes_en": "Ctrl+K opens Tools\nSmaller, clearer wisdom card\nLinkedIn: one paragraph\nNew timer animation\nAlarm rings once\nPinned projects in two rows\nIn-progress count fix",
+  "version": "1.4.92",
+  "notes": "ملاحظات صوتية في المشروع\nتنزيل صور المشروع\nإضافة وحذف الروابط\nتصميم جديد للضغط\nبطاقات لينكدإن متساوية\nمؤقّت المهمة أصغر\nصور المشاريع تملأ البطاقة",
+  "notes_en": "Voice notes in projects\nDownload project media\nAdd and delete links\nNew compress design\nEqual LinkedIn cards\nSmaller task timer\nProject images fill cards",
   "android_url": "https://play.google.com/store/apps/details?id=com.alqaddi.anchor",
   "windows_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest",
   "linux_url": "https://github.com/AlqaddiX/anchor-privacy/releases/latest"
